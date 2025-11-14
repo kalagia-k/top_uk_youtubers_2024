@@ -1,5 +1,7 @@
 title: Konstantina
 show_downloads: True
-remote_theme: pages-themes/cayman@v0.2.0
+github:
+  zip_url: http://example.com/download.zip
+  another_url: another value
 plugins:
 - jekyll-remote-theme
